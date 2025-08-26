@@ -1,8 +1,6 @@
 
 # Comprehensive Machine Learning Pipeline on Heart Disease (UCI)
 
-This repo contains a 7-day sprint implementation for a full ML pipeline: preprocessing, PCA, feature selection, supervised & unsupervised learning, hyperparameter tuning, and a Streamlit UI.
-
 ## Folder Structure
 ```
 Heart_Disease_Project/
