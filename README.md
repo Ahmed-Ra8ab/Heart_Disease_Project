@@ -2,7 +2,7 @@
 # Comprehensive Machine Learning Pipeline on Heart Disease (UCI)
 
 ## Folder Structure
-```
+``` 
 Heart_Disease_Project/
 ├─ data/
 │  ├─ heart_disease.csv               
