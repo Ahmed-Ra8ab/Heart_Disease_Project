@@ -5,10 +5,7 @@
 ```
 Heart_Disease_Project/
 ├─ data/
-│  ├─ heart_disease.csv                # Place your dataset here
-│  ├─ cleaned_heart.csv                # Produced by 01
-│  ├─ pca_features.csv, labels.csv     # Produced by 02
-│  ├─ selected_features.csv            # Produced by 03
+│  ├─ heart_disease.csv               
 ├─ notebooks/
 │  ├─ 01_data_preprocessing.ipynb
 │  ├─ 02_pca_analysis.ipynb
