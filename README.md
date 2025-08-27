@@ -18,8 +18,6 @@ Heart_Disease_Project/
 │  ├─ scaler.joblib, pca_95.joblib     # Artifacts
 ├─ ui/
 │  ├─ app.py                           # Streamlit UI
-├─ deployment/
-│  ├─ ngrok_setup.txt
 ├─ results/
 │  ├─ evaluation_metrics.txt
 ├─ requirements.txt
